@@ -5,10 +5,10 @@
 !
 ! This program calculates the current energy fraction of PBHs over
 ! the total dark matter which is denoted by f_PBH, in the setup of
-! alpha-attractor inflation with a tiny-bump. For this purpose, it
-! first computes the background dynamics, and store the results in
+! alpha-attractor inflation with a tiny bump. For this purpose, it
+! first computes the background dynamics, and stores the results in
 ! the file "phi.txt". Then it solves the Mukhanov-Sasaki equation
-! by using the Bunch-Davies initial conditions, and computes the
+! by using the Bunch-Davies initial conditions and computes the
 ! scalar power spectrum P_s. The results of P_s are stored in the
 ! file "Ps.txt". Finally, it computes f_PBH, and the corresponding
 ! results are stored in the file "fPBH.txt".

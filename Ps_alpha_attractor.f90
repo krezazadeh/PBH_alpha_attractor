@@ -5,10 +5,10 @@
 !
 ! This program calculates the power spectrum of the scalar
 ! perturbations which is noted by P_s, in the setup of
-! alpha-attractor inflation with a tiny-bump. For this purpose, it
-! first computes the background dynamics, and store the results in
+! alpha-attractor inflation with a tiny bump. For this purpose, it
+! first computes the background dynamics, and stores the results in
 ! the file "phi.txt". Then it solves the Mukhanov-Sasaki equation
-! by using the Bunch-Davies initial conditions, and computes the
+! by using the Bunch-Davies initial conditions and computes the
 ! scalar power spectrum P_s. The results of P_s are stored in the
 ! file "Ps.txt".
 !

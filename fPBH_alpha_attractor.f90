@@ -82,8 +82,6 @@ program fPBH_alpha_attractor
     real(8) :: k_i
     real(8), dimension(1000) :: array_MtoMSun, array_fPBH
     real(8) :: MtoMSun, fPBH
-    real(8) :: sigma_trap, beta
-    real(8), dimension(1000) :: array_k_temp, array_Ps_temp
 
     V0 = 1.448d-10
     AA = 2.0448801d-3
